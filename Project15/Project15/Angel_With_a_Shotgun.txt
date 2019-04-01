@@ -1,0 +1,2323 @@
+int L1= 1;
+int L2= 2;
+int L3= 3;
+int L4= 4;
+int L5= 5;
+
+void setup() {
+pinMode(L1, OUTPUT);
+pinMode(L2, OUTPUT);
+pinMode(L3, OUTPUT);
+pinMode(L4, OUTPUT);
+pinMode(L5, OUTPUT);
+}
+
+void loop() {
+//Rest 0.5
+delay(500);
+//Rest 0.5
+delay(500);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L19, HIGH); // string
+digitalWrite(L20, HIGH); // string
+digitalWrite(L21, HIGH); // string
+digitalWrite(L22, HIGH); // string
+digitalWrite(L23, HIGH); // string
+digitalWrite(L24, HIGH); // string
+delay(187.5);
+digitalWrite(L16, HIGH);
+delay(375);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(375);
+digitalWrite(L14, LOW);
+digitalWrite(L16, HIGH);
+delay(375);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(375);
+digitalWrite(L14, LOW);
+digitalWrite(L16, HIGH);
+delay(375);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(375);
+digitalWrite(L14, LOW);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L19, HIGH); // string
+digitalWrite(L20, HIGH); // string
+digitalWrite(L21, HIGH); // string
+digitalWrite(L22, HIGH); // string
+digitalWrite(L23, HIGH); // string
+digitalWrite(L24, HIGH); // string
+delay(187.5);
+digitalWrite(L16, HIGH);
+delay(375);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(375);
+digitalWrite(L14, LOW);
+digitalWrite(L16, HIGH);
+delay(375);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(375);
+digitalWrite(L14, LOW);
+digitalWrite(L16, HIGH);
+delay(375);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(375);
+digitalWrite(L14, LOW);
+//Rest 2
+delay(2000);
+//Rest 0.5
+delay(500);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L10, HIGH);
+delay(187.5);
+digitalWrite(L10, LOW);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(750);
+//Rest 0.5
+delay(500);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L10, HIGH);
+delay(187.5);
+digitalWrite(L10, LOW);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(375);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+//Rest 0.5
+delay(500);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L10, HIGH);
+delay(187.5);
+digitalWrite(L10, LOW);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L12, HIGH);
+delay(375);
+digitalWrite(L12, LOW);
+digitalWrite(L12, HIGH);
+delay(93.75);
+digitalWrite(L12, LOW);
+digitalWrite(L10, HIGH);
+delay(93.75);
+digitalWrite(L10, LOW);
+digitalWrite(L8, HIGH);
+delay(375);
+digitalWrite(L8, LOW);
+digitalWrite(L10, HIGH);
+delay(187.5);
+digitalWrite(L10, LOW);
+//Rest 0.5
+delay(500);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L10, HIGH);
+delay(187.5);
+digitalWrite(L10, LOW);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(375);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+//Rest 0.5
+delay(500);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L10, HIGH);
+delay(187.5);
+digitalWrite(L10, LOW);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L12, HIGH);
+delay(750);
+digitalWrite(L12, LOW);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(375);
+digitalWrite(L8, HIGH);
+delay(187.5);
+digitalWrite(L8, LOW);
+digitalWrite(L8, HIGH);
+delay(375);
+digitalWrite(L8, LOW);
+digitalWrite(L16, HIGH);
+delay(375);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+//Rest 0.5
+delay(500);
+//Rest 0.5
+delay(500);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L17, HIGH);
+delay(187.5);
+digitalWrite(L17, LOW);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(375);
+digitalWrite(L8, HIGH);
+delay(187.5);
+digitalWrite(L8, LOW);
+digitalWrite(L8, HIGH);
+delay(375);
+digitalWrite(L8, LOW);
+//Rest 0.5
+delay(500);
+digitalWrite(L8, HIGH);
+delay(187.5);
+digitalWrite(L8, LOW);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L16, HIGH);
+delay(375);
+digitalWrite(L16, LOW);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L17, HIGH);
+delay(187.5);
+digitalWrite(L17, LOW);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(375);
+//Rest 0.5
+delay(500);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L17, HIGH);
+delay(187.5);
+digitalWrite(L17, LOW);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L14, HIGH);
+delay(375);
+digitalWrite(L14, LOW);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L19, HIGH); // string
+digitalWrite(L20, HIGH); // string
+digitalWrite(L21, HIGH); // string
+digitalWrite(L22, HIGH); // string
+digitalWrite(L23, HIGH); // string
+digitalWrite(L24, HIGH); // string
+delay(187.5);
+digitalWrite(L16, HIGH);
+delay(375);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(375);
+digitalWrite(L14, LOW);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L19, HIGH); // string
+digitalWrite(L20, HIGH); // string
+digitalWrite(L21, HIGH); // string
+digitalWrite(L22, HIGH); // string
+digitalWrite(L23, HIGH); // string
+digitalWrite(L24, HIGH); // string
+delay(187.5);
+digitalWrite(L16, HIGH);
+delay(375);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(375);
+digitalWrite(L14, LOW);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(375);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(375);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(375);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L14, HIGH);
+delay(750);
+digitalWrite(L14, LOW);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L19, HIGH); // string
+digitalWrite(L20, HIGH); // string
+digitalWrite(L21, HIGH); // string
+digitalWrite(L22, HIGH); // string
+digitalWrite(L23, HIGH); // string
+digitalWrite(L24, HIGH); // string
+delay(187.5);
+digitalWrite(L16, HIGH);
+delay(375);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(375);
+digitalWrite(L14, LOW);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L19, HIGH); // string
+digitalWrite(L20, HIGH); // string
+digitalWrite(L21, HIGH); // string
+digitalWrite(L22, HIGH); // string
+digitalWrite(L23, HIGH); // string
+digitalWrite(L24, HIGH); // string
+delay(187.5);
+digitalWrite(L16, HIGH);
+delay(750);
+digitalWrite(L16, LOW);
+digitalWrite(L17, HIGH);
+delay(187.5);
+digitalWrite(L17, LOW);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(375);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L21, HIGH);
+delay(187.5);
+digitalWrite(L21, LOW);
+digitalWrite(L19, HIGH); // string
+digitalWrite(L20, HIGH); // string
+digitalWrite(L21, HIGH); // string
+digitalWrite(L22, HIGH); // string
+digitalWrite(L23, HIGH); // string
+digitalWrite(L24, HIGH); // string
+delay(375);
+digitalWrite(L19, HIGH); // string
+digitalWrite(L20, HIGH); // string
+digitalWrite(L21, HIGH); // string
+digitalWrite(L22, HIGH); // string
+digitalWrite(L23, HIGH); // string
+digitalWrite(L24, HIGH); // string
+delay(187.5);
+digitalWrite(L19, HIGH); // string
+digitalWrite(L20, HIGH); // string
+digitalWrite(L21, HIGH); // string
+digitalWrite(L22, HIGH); // string
+digitalWrite(L23, HIGH); // string
+digitalWrite(L24, HIGH); // string
+delay(187.5);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(750);
+digitalWrite(L14, LOW);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L24, HIGH);
+delay(375);
+digitalWrite(L24, LOW);
+digitalWrite(L23, HIGH);
+delay(375);
+digitalWrite(L23, LOW);
+digitalWrite(L19, HIGH); // string
+digitalWrite(L20, HIGH); // string
+digitalWrite(L21, HIGH); // string
+digitalWrite(L22, HIGH); // string
+digitalWrite(L23, HIGH); // string
+digitalWrite(L24, HIGH); // string
+delay(375);
+digitalWrite(L17, HIGH);
+delay(187.5);
+digitalWrite(L17, LOW);
+digitalWrite(L17, HIGH);
+delay(750);
+digitalWrite(L17, LOW);
+//Rest 0.5
+delay(500);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L24, HIGH);
+delay(375);
+digitalWrite(L24, LOW);
+digitalWrite(L23, HIGH);
+delay(375);
+digitalWrite(L23, LOW);
+digitalWrite(L19, HIGH); // string
+digitalWrite(L20, HIGH); // string
+digitalWrite(L21, HIGH); // string
+digitalWrite(L22, HIGH); // string
+digitalWrite(L23, HIGH); // string
+digitalWrite(L24, HIGH); // string
+delay(375);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L14, HIGH);
+delay(750);
+digitalWrite(L14, LOW);
+//Rest 1
+delay(1000);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+//Rest 0.5
+delay(500);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L10, HIGH);
+delay(187.5);
+digitalWrite(L10, LOW);
+digitalWrite(L16, HIGH);
+delay(750);
+digitalWrite(L16, LOW);
+//Rest 0.5
+delay(500);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L10, HIGH);
+delay(187.5);
+digitalWrite(L10, LOW);
+digitalWrite(L16, HIGH);
+delay(750);
+digitalWrite(L16, LOW);
+//Rest 0.5
+delay(500);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L10, HIGH);
+delay(187.5);
+digitalWrite(L10, LOW);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L12, HIGH);
+delay(375);
+digitalWrite(L12, LOW);
+digitalWrite(L12, HIGH);
+delay(93.75);
+digitalWrite(L12, LOW);
+digitalWrite(L10, HIGH);
+delay(93.75);
+digitalWrite(L10, LOW);
+digitalWrite(L8, HIGH);
+delay(375);
+digitalWrite(L8, LOW);
+digitalWrite(L10, HIGH);
+delay(187.5);
+digitalWrite(L10, LOW);
+//Rest 0.5
+delay(500);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L10, HIGH);
+delay(187.5);
+digitalWrite(L10, LOW);
+digitalWrite(L16, HIGH);
+delay(750);
+digitalWrite(L16, LOW);
+//Rest 0.5
+delay(500);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L10, HIGH);
+delay(187.5);
+digitalWrite(L10, LOW);
+digitalWrite(L17, HIGH);
+delay(750);
+digitalWrite(L17, LOW);
+//Rest 0.5
+delay(500);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L10, HIGH);
+delay(187.5);
+digitalWrite(L10, LOW);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L17, HIGH);
+delay(187.5);
+digitalWrite(L17, LOW);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(750);
+digitalWrite(L14, LOW);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(375);
+digitalWrite(L8, HIGH);
+delay(187.5);
+digitalWrite(L8, LOW);
+digitalWrite(L8, HIGH);
+delay(375);
+digitalWrite(L8, LOW);
+//Rest 0.5
+delay(500);
+digitalWrite(L8, HIGH);
+delay(187.5);
+digitalWrite(L8, LOW);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L16, HIGH);
+delay(375);
+digitalWrite(L16, LOW);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L17, HIGH);
+delay(187.5);
+digitalWrite(L17, LOW);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(375);
+digitalWrite(L8, HIGH);
+delay(187.5);
+digitalWrite(L8, LOW);
+digitalWrite(L8, HIGH);
+delay(375);
+digitalWrite(L8, LOW);
+digitalWrite(L16, HIGH);
+delay(375);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+//Rest 1
+delay(1000);
+digitalWrite(L19, HIGH); // string
+digitalWrite(L20, HIGH); // string
+digitalWrite(L21, HIGH); // string
+digitalWrite(L22, HIGH); // string
+digitalWrite(L23, HIGH); // string
+digitalWrite(L24, HIGH); // string
+delay(187.5);
+digitalWrite(L17, HIGH);
+delay(187.5);
+digitalWrite(L17, LOW);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(375);
+digitalWrite(L8, HIGH);
+delay(375);
+digitalWrite(L8, LOW);
+digitalWrite(L8, HIGH);
+delay(375);
+digitalWrite(L8, LOW);
+digitalWrite(L8, HIGH);
+delay(187.5);
+digitalWrite(L8, LOW);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L16, HIGH);
+delay(375);
+digitalWrite(L16, LOW);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L17, HIGH);
+delay(187.5);
+digitalWrite(L17, LOW);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L14, HIGH);
+delay(375);
+digitalWrite(L14, LOW);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L19, HIGH); // string
+digitalWrite(L20, HIGH); // string
+digitalWrite(L21, HIGH); // string
+digitalWrite(L22, HIGH); // string
+digitalWrite(L23, HIGH); // string
+digitalWrite(L24, HIGH); // string
+delay(187.5);
+digitalWrite(L16, HIGH);
+delay(375);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(375);
+digitalWrite(L14, LOW);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L19, HIGH); // string
+digitalWrite(L20, HIGH); // string
+digitalWrite(L21, HIGH); // string
+digitalWrite(L22, HIGH); // string
+digitalWrite(L23, HIGH); // string
+digitalWrite(L24, HIGH); // string
+delay(187.5);
+digitalWrite(L16, HIGH);
+delay(375);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(375);
+digitalWrite(L14, LOW);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L19, HIGH); // string
+digitalWrite(L20, HIGH); // string
+digitalWrite(L21, HIGH); // string
+digitalWrite(L22, HIGH); // string
+digitalWrite(L23, HIGH); // string
+digitalWrite(L24, HIGH); // string
+delay(375);
+digitalWrite(L19, HIGH); // string
+digitalWrite(L20, HIGH); // string
+digitalWrite(L21, HIGH); // string
+digitalWrite(L22, HIGH); // string
+digitalWrite(L23, HIGH); // string
+digitalWrite(L24, HIGH); // string
+delay(375);
+digitalWrite(L19, HIGH); // string
+digitalWrite(L20, HIGH); // string
+digitalWrite(L21, HIGH); // string
+digitalWrite(L22, HIGH); // string
+digitalWrite(L23, HIGH); // string
+digitalWrite(L24, HIGH); // string
+delay(375);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L14, HIGH);
+delay(750);
+digitalWrite(L14, LOW);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L19, HIGH); // string
+digitalWrite(L20, HIGH); // string
+digitalWrite(L21, HIGH); // string
+digitalWrite(L22, HIGH); // string
+digitalWrite(L23, HIGH); // string
+digitalWrite(L24, HIGH); // string
+delay(187.5);
+digitalWrite(L16, HIGH);
+delay(375);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(375);
+digitalWrite(L14, LOW);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L19, HIGH); // string
+digitalWrite(L20, HIGH); // string
+digitalWrite(L21, HIGH); // string
+digitalWrite(L22, HIGH); // string
+digitalWrite(L23, HIGH); // string
+digitalWrite(L24, HIGH); // string
+delay(187.5);
+digitalWrite(L16, HIGH);
+delay(750);
+digitalWrite(L16, LOW);
+digitalWrite(L17, HIGH);
+delay(187.5);
+digitalWrite(L17, LOW);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(375);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L21, HIGH);
+delay(187.5);
+digitalWrite(L21, LOW);
+digitalWrite(L19, HIGH); // string
+digitalWrite(L20, HIGH); // string
+digitalWrite(L21, HIGH); // string
+digitalWrite(L22, HIGH); // string
+digitalWrite(L23, HIGH); // string
+digitalWrite(L24, HIGH); // string
+delay(375);
+digitalWrite(L19, HIGH); // string
+digitalWrite(L20, HIGH); // string
+digitalWrite(L21, HIGH); // string
+digitalWrite(L22, HIGH); // string
+digitalWrite(L23, HIGH); // string
+digitalWrite(L24, HIGH); // string
+delay(187.5);
+digitalWrite(L19, HIGH); // string
+digitalWrite(L20, HIGH); // string
+digitalWrite(L21, HIGH); // string
+digitalWrite(L22, HIGH); // string
+digitalWrite(L23, HIGH); // string
+digitalWrite(L24, HIGH); // string
+delay(187.5);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(750);
+digitalWrite(L14, LOW);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L24, HIGH);
+delay(375);
+digitalWrite(L24, LOW);
+digitalWrite(L23, HIGH);
+delay(375);
+digitalWrite(L23, LOW);
+digitalWrite(L19, HIGH); // string
+digitalWrite(L20, HIGH); // string
+digitalWrite(L21, HIGH); // string
+digitalWrite(L22, HIGH); // string
+digitalWrite(L23, HIGH); // string
+digitalWrite(L24, HIGH); // string
+delay(375);
+digitalWrite(L17, HIGH);
+delay(187.5);
+digitalWrite(L17, LOW);
+digitalWrite(L21, HIGH);
+delay(750);
+digitalWrite(L21, LOW);
+//Rest 0.5
+delay(500);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L24, HIGH);
+delay(375);
+digitalWrite(L24, LOW);
+digitalWrite(L23, HIGH);
+delay(375);
+digitalWrite(L23, LOW);
+digitalWrite(L19, HIGH); // string
+digitalWrite(L20, HIGH); // string
+digitalWrite(L21, HIGH); // string
+digitalWrite(L22, HIGH); // string
+digitalWrite(L23, HIGH); // string
+digitalWrite(L24, HIGH); // string
+delay(375);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L14, HIGH);
+delay(750);
+digitalWrite(L14, LOW);
+//Rest 1
+delay(1000);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L16, HIGH);
+delay(1500);
+digitalWrite(L16, LOW);
+digitalWrite(L16, HIGH);
+delay(375);
+digitalWrite(L16, LOW);
+digitalWrite(L17, HIGH);
+delay(187.5);
+digitalWrite(L17, LOW);
+digitalWrite(L16, HIGH);
+delay(375);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(375);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(375);
+//Rest 0.5
+delay(500);
+digitalWrite(L8, HIGH);
+delay(187.5);
+digitalWrite(L8, LOW);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L14, HIGH);
+delay(750);
+digitalWrite(L14, LOW);
+//Rest 2
+delay(2000);
+digitalWrite(L16, HIGH);
+delay(1500);
+digitalWrite(L16, LOW);
+digitalWrite(L16, HIGH);
+delay(375);
+digitalWrite(L16, LOW);
+digitalWrite(L17, HIGH);
+delay(187.5);
+digitalWrite(L17, LOW);
+digitalWrite(L16, HIGH);
+delay(375);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(375);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(375);
+//Rest 0.5
+delay(500);
+digitalWrite(L8, HIGH);
+delay(187.5);
+digitalWrite(L8, LOW);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L14, HIGH);
+delay(750);
+digitalWrite(L14, LOW);
+//Rest 2
+delay(2000);
+digitalWrite(L16, HIGH);
+delay(1500);
+digitalWrite(L16, LOW);
+digitalWrite(L16, HIGH);
+delay(375);
+digitalWrite(L16, LOW);
+digitalWrite(L17, HIGH);
+delay(187.5);
+digitalWrite(L17, LOW);
+digitalWrite(L16, HIGH);
+delay(375);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(375);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(375);
+//Rest 0.5
+delay(500);
+digitalWrite(L8, HIGH);
+delay(187.5);
+digitalWrite(L8, LOW);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L14, HIGH);
+delay(750);
+digitalWrite(L14, LOW);
+//Rest 2
+delay(2000);
+digitalWrite(L16, HIGH);
+delay(1500);
+digitalWrite(L16, LOW);
+digitalWrite(L16, HIGH);
+delay(375);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L19, HIGH); // string
+digitalWrite(L20, HIGH); // string
+digitalWrite(L21, HIGH); // string
+digitalWrite(L22, HIGH); // string
+digitalWrite(L23, HIGH); // string
+digitalWrite(L24, HIGH); // string
+delay(187.5);
+digitalWrite(L16, HIGH);
+delay(375);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(375);
+digitalWrite(L14, LOW);
+digitalWrite(L16, HIGH);
+delay(375);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(375);
+digitalWrite(L14, LOW);
+//Rest 1
+delay(1000);
+digitalWrite(L14, HIGH);
+delay(46.875);
+digitalWrite(L14, LOW);
+digitalWrite(L16, HIGH);
+delay(46.875);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(375);
+digitalWrite(L14, LOW);
+//Rest 0.25
+delay(250);
+//Rest 0.5
+delay(500);
+//Rest 1
+delay(1000);
+digitalWrite(L16, HIGH);
+delay(1500);
+digitalWrite(L16, LOW);
+digitalWrite(L16, HIGH);
+delay(375);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L19, HIGH); // string
+digitalWrite(L20, HIGH); // string
+digitalWrite(L21, HIGH); // string
+digitalWrite(L22, HIGH); // string
+digitalWrite(L23, HIGH); // string
+digitalWrite(L24, HIGH); // string
+delay(187.5);
+digitalWrite(L16, HIGH);
+delay(375);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(375);
+digitalWrite(L14, LOW);
+digitalWrite(L16, HIGH);
+delay(375);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(375);
+digitalWrite(L14, LOW);
+digitalWrite(L16, HIGH);
+delay(375);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(375);
+digitalWrite(L14, LOW);
+//Rest 2
+delay(2000);
+digitalWrite(L4, HIGH);
+delay(375);
+digitalWrite(L4, LOW);
+digitalWrite(L2, HIGH);
+delay(375);
+digitalWrite(L2, LOW);
+digitalWrite(L4, HIGH);
+delay(187.5);
+digitalWrite(L4, LOW);
+digitalWrite(L6, HIGH);
+delay(187.5);
+digitalWrite(L6, LOW);
+digitalWrite(L4, HIGH);
+delay(187.5);
+digitalWrite(L4, LOW);
+digitalWrite(L2, HIGH);
+delay(187.5);
+digitalWrite(L2, LOW);
+digitalWrite(L4, HIGH);
+delay(375);
+digitalWrite(L4, LOW);
+digitalWrite(L2, HIGH);
+delay(375);
+digitalWrite(L2, LOW);
+digitalWrite(L4, HIGH);
+delay(187.5);
+digitalWrite(L4, LOW);
+digitalWrite(L6, HIGH);
+delay(187.5);
+digitalWrite(L6, LOW);
+digitalWrite(L4, HIGH);
+delay(187.5);
+digitalWrite(L4, LOW);
+digitalWrite(L2, HIGH);
+delay(187.5);
+digitalWrite(L2, LOW);
+digitalWrite(L2, HIGH);
+delay(375);
+digitalWrite(L2, LOW);
+digitalWrite(L2, HIGH);
+delay(375);
+digitalWrite(L2, LOW);
+digitalWrite(L2, HIGH);
+delay(375);
+digitalWrite(L2, LOW);
+digitalWrite(L2, HIGH);
+delay(187.5);
+digitalWrite(L2, LOW);
+digitalWrite(L4, HIGH);
+delay(187.5);
+digitalWrite(L4, LOW);
+digitalWrite(L4, HIGH);
+delay(1500);
+digitalWrite(L4, LOW);
+//Rest 1
+delay(1000);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L19, HIGH); // string
+digitalWrite(L20, HIGH); // string
+digitalWrite(L21, HIGH); // string
+digitalWrite(L22, HIGH); // string
+digitalWrite(L23, HIGH); // string
+digitalWrite(L24, HIGH); // string
+delay(187.5);
+digitalWrite(L16, HIGH);
+delay(375);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(375);
+digitalWrite(L14, LOW);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L19, HIGH); // string
+digitalWrite(L20, HIGH); // string
+digitalWrite(L21, HIGH); // string
+digitalWrite(L22, HIGH); // string
+digitalWrite(L23, HIGH); // string
+digitalWrite(L24, HIGH); // string
+delay(187.5);
+digitalWrite(L16, HIGH);
+delay(375);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(375);
+digitalWrite(L14, LOW);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(375);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(375);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(375);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L14, HIGH);
+delay(750);
+digitalWrite(L14, LOW);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L19, HIGH); // string
+digitalWrite(L20, HIGH); // string
+digitalWrite(L21, HIGH); // string
+digitalWrite(L22, HIGH); // string
+digitalWrite(L23, HIGH); // string
+digitalWrite(L24, HIGH); // string
+delay(187.5);
+digitalWrite(L16, HIGH);
+delay(375);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(375);
+digitalWrite(L14, LOW);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L19, HIGH); // string
+digitalWrite(L20, HIGH); // string
+digitalWrite(L21, HIGH); // string
+digitalWrite(L22, HIGH); // string
+digitalWrite(L23, HIGH); // string
+digitalWrite(L24, HIGH); // string
+delay(187.5);
+digitalWrite(L16, HIGH);
+delay(750);
+digitalWrite(L16, LOW);
+digitalWrite(L17, HIGH);
+delay(187.5);
+digitalWrite(L17, LOW);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(375);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(375);
+//Rest 0.5
+delay(500);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L19, HIGH); // string
+digitalWrite(L20, HIGH); // string
+digitalWrite(L21, HIGH); // string
+digitalWrite(L22, HIGH); // string
+digitalWrite(L23, HIGH); // string
+digitalWrite(L24, HIGH); // string
+delay(187.5);
+digitalWrite(L19, HIGH); // string
+digitalWrite(L20, HIGH); // string
+digitalWrite(L21, HIGH); // string
+digitalWrite(L22, HIGH); // string
+digitalWrite(L23, HIGH); // string
+digitalWrite(L24, HIGH); // string
+delay(750);
+//Rest 1
+delay(1000);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L24, HIGH);
+delay(375);
+digitalWrite(L24, LOW);
+digitalWrite(L23, HIGH);
+delay(375);
+digitalWrite(L23, LOW);
+digitalWrite(L19, HIGH); // string
+digitalWrite(L20, HIGH); // string
+digitalWrite(L21, HIGH); // string
+digitalWrite(L22, HIGH); // string
+digitalWrite(L23, HIGH); // string
+digitalWrite(L24, HIGH); // string
+delay(375);
+digitalWrite(L17, HIGH);
+delay(187.5);
+digitalWrite(L17, LOW);
+digitalWrite(L17, HIGH);
+delay(750);
+digitalWrite(L17, LOW);
+//Rest 0.5
+delay(500);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L24, HIGH);
+delay(375);
+digitalWrite(L24, LOW);
+digitalWrite(L23, HIGH);
+delay(375);
+digitalWrite(L23, LOW);
+digitalWrite(L19, HIGH); // string
+digitalWrite(L20, HIGH); // string
+digitalWrite(L21, HIGH); // string
+digitalWrite(L22, HIGH); // string
+digitalWrite(L23, HIGH); // string
+digitalWrite(L24, HIGH); // string
+delay(375);
+digitalWrite(L17, HIGH);
+delay(187.5);
+digitalWrite(L17, LOW);
+digitalWrite(L17, HIGH);
+delay(750);
+digitalWrite(L17, LOW);
+//Rest 0.5
+delay(500);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L24, HIGH);
+delay(375);
+digitalWrite(L24, LOW);
+digitalWrite(L23, HIGH);
+delay(375);
+digitalWrite(L23, LOW);
+digitalWrite(L19, HIGH); // string
+digitalWrite(L20, HIGH); // string
+digitalWrite(L21, HIGH); // string
+digitalWrite(L22, HIGH); // string
+digitalWrite(L23, HIGH); // string
+digitalWrite(L24, HIGH); // string
+delay(375);
+digitalWrite(L14, HIGH);
+delay(187.5);
+digitalWrite(L14, LOW);
+digitalWrite(L14, HIGH);
+delay(750);
+digitalWrite(L14, LOW);
+//Rest 0.5
+delay(500);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L24, HIGH);
+delay(375);
+digitalWrite(L24, LOW);
+digitalWrite(L23, HIGH);
+delay(375);
+digitalWrite(L23, LOW);
+digitalWrite(L26, HIGH);
+delay(375);
+digitalWrite(L26, LOW);
+digitalWrite(L24, HIGH);
+delay(187.5);
+digitalWrite(L24, LOW);
+digitalWrite(L24, HIGH);
+delay(750);
+digitalWrite(L24, LOW);
+//Rest 0.5
+delay(500);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L6, HIGH);
+delay(375);
+digitalWrite(L6, LOW);
+digitalWrite(L16, HIGH);
+delay(375);
+digitalWrite(L16, LOW);
+digitalWrite(L6, HIGH);
+delay(375);
+digitalWrite(L6, LOW);
+digitalWrite(L16, HIGH);
+delay(187.5);
+digitalWrite(L16, LOW);
+digitalWrite(L16, HIGH);
+delay(375);
+digitalWrite(L16, LOW);
+digitalWrite(L14, HIGH);
+delay(375);
+digitalWrite(L14, LOW);
+digitalWrite(L14, HIGH);
+delay(375);
+digitalWrite(L14, LOW);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(375);
+digitalWrite(L8, HIGH);
+delay(187.5);
+digitalWrite(L8, LOW);
+digitalWrite(L8, HIGH);
+delay(375);
+digitalWrite(L8, LOW);
+digitalWrite(L8, HIGH);
+delay(187.5);
+digitalWrite(L8, LOW);
+digitalWrite(L7, HIGH); // string
+digitalWrite(L8, HIGH); // string
+digitalWrite(L9, HIGH); // string
+digitalWrite(L10, HIGH); // string
+digitalWrite(L11, HIGH); // string
+digitalWrite(L12, HIGH); // string
+delay(187.5);
+digitalWrite(L7, HIGH); // string
+digitalWrite(L8, HIGH); // string
+digitalWrite(L9, HIGH); // string
+digitalWrite(L10, HIGH); // string
+digitalWrite(L11, HIGH); // string
+digitalWrite(L12, HIGH); // string
+delay(187.5);
+digitalWrite(L6, HIGH);
+delay(375);
+digitalWrite(L6, LOW);
+digitalWrite(L6, HIGH);
+delay(187.5);
+digitalWrite(L6, LOW);
+digitalWrite(L7, HIGH); // string
+digitalWrite(L8, HIGH); // string
+digitalWrite(L9, HIGH); // string
+digitalWrite(L10, HIGH); // string
+digitalWrite(L11, HIGH); // string
+digitalWrite(L12, HIGH); // string
+delay(187.5);
+digitalWrite(L6, HIGH);
+delay(187.5);
+digitalWrite(L6, LOW);
+digitalWrite(L4, HIGH);
+delay(187.5);
+digitalWrite(L4, LOW);
+digitalWrite(L2, HIGH);
+delay(187.5);
+digitalWrite(L2, LOW);
+digitalWrite(L2, HIGH);
+delay(375);
+digitalWrite(L2, LOW);
+digitalWrite(L2, HIGH);
+delay(187.5);
+digitalWrite(L2, LOW);
+digitalWrite(L2, HIGH);
+delay(375);
+digitalWrite(L2, LOW);
+digitalWrite(L10, HIGH);
+delay(375);
+digitalWrite(L10, LOW);
+digitalWrite(L8, HIGH);
+delay(187.5);
+digitalWrite(L8, LOW);
+digitalWrite(L8, HIGH);
+delay(375);
+digitalWrite(L8, LOW);
+digitalWrite(L12, HIGH);
+delay(187.5);
+digitalWrite(L12, LOW);
+digitalWrite(L13, HIGH); // string
+digitalWrite(L14, HIGH); // string
+digitalWrite(L15, HIGH); // string
+digitalWrite(L16, HIGH); // string
+digitalWrite(L17, HIGH); // string
+digitalWrite(L18, HIGH); // string
+delay(187.5);
+digitalWrite(L12, HIGH);
+delay(187.5);
+digitalWrite(L12, LOW);
+digitalWrite(L10, HIGH);
+delay(187.5);
+digitalWrite(L10, LOW);
+digitalWrite(L8, HIGH);
+delay(187.5);
+digitalWrite(L8, LOW);
+digitalWrite(L8, HIGH);
+delay(375);
+digitalWrite(L8, LOW);
+digitalWrite(L6, HIGH);
+delay(187.5);
+digitalWrite(L6, LOW);
+digitalWrite(L6, HIGH);
+delay(375);
+digitalWrite(L6, LOW);
+digitalWrite(L2, HIGH);
+delay(187.5);
+digitalWrite(L2, LOW);
+digitalWrite(L8, HIGH);
+delay(187.5);
+digitalWrite(L8, LOW);
+digitalWrite(L8, HIGH);
+delay(187.5);
+digitalWrite(L8, LOW);
+digitalWrite(L10, HIGH);
+delay(375);
+digitalWrite(L10, LOW);
+digitalWrite(L6, HIGH);
+delay(187.5);
+digitalWrite(L6, LOW);
+digitalWrite(L6, HIGH);
+delay(187.5);
+digitalWrite(L6, LOW);
+digitalWrite(L6, HIGH);
+delay(187.5);
+digitalWrite(L6, LOW);
+digitalWrite(L6, HIGH);
+delay(187.5);
+digitalWrite(L6, LOW);
+digitalWrite(L8, HIGH);
+delay(187.5);
+digitalWrite(L8, LOW);
+digitalWrite(L8, HIGH);
+delay(187.5);
+digitalWrite(L8, LOW);
+digitalWrite(L8, HIGH);
+delay(375);
+digitalWrite(L8, LOW);
+digitalWrite(L6, HIGH);
+delay(187.5);
+digitalWrite(L6, LOW);
+digitalWrite(L6, HIGH);
+delay(187.5);
+digitalWrite(L6, LOW);
+digitalWrite(L6, HIGH);
+delay(187.5);
+digitalWrite(L6, LOW);
+digitalWrite(L6, HIGH);
+delay(187.5);
+digitalWrite(L6, LOW);
+digitalWrite(L8, HIGH);
+delay(187.5);
+digitalWrite(L8, LOW);
+digitalWrite(L8, HIGH);
+delay(187.5);
+digitalWrite(L8, LOW);
+digitalWrite(L4, HIGH);
+delay(375);
+digitalWrite(L4, LOW);
+//Rest 0.5
+delay(500);
+//Rest 2
+delay(2000);
+}

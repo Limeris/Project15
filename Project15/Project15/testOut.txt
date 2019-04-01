@@ -1,0 +1,123 @@
+int L1= 1;
+int L2= 2;
+int L3= 3;
+int L4= 4;
+int L5= 5;
+
+void setup() {
+pinMode(L1, OUTPUT);
+pinMode(L2, OUTPUT);
+pinMode(L3, OUTPUT);
+pinMode(L4, OUTPUT);
+pinMode(L5, OUTPUT);
+}
+
+void loop() {
+digitalWrite(L1, HIGH); // string
+digitalWrite(L2, HIGH); // string
+digitalWrite(L3, HIGH); // string
+digitalWrite(L4, HIGH); // string
+digitalWrite(L5, HIGH); // string
+digitalWrite(L6, HIGH); // string
+delay(500);
+digitalWrite(L25, HIGH);
+delay(500);
+digitalWrite(L25, LOW);
+digitalWrite(L25, HIGH);
+delay(500);
+digitalWrite(L25, LOW);
+digitalWrite(L26, HIGH);
+delay(500);
+digitalWrite(L26, LOW);
+digitalWrite(L13, HIGH);
+delay(500);
+digitalWrite(L13, LOW);
+digitalWrite(L13, HIGH);
+delay(500);
+digitalWrite(L13, LOW);
+digitalWrite(L14, HIGH);
+delay(500);
+digitalWrite(L14, LOW);
+digitalWrite(L3, HIGH);
+delay(500);
+digitalWrite(L3, LOW);
+digitalWrite(L3, HIGH);
+delay(500);
+digitalWrite(L3, LOW);
+digitalWrite(L4, HIGH);
+delay(500);
+digitalWrite(L4, LOW);
+//Rest 2
+delay(2000);
+digitalWrite(L1, HIGH); // string
+digitalWrite(L2, HIGH); // string
+digitalWrite(L3, HIGH); // string
+digitalWrite(L4, HIGH); // string
+digitalWrite(L5, HIGH); // string
+digitalWrite(L6, HIGH); // string
+delay(500);
+digitalWrite(L1, HIGH);
+delay(500);
+digitalWrite(L1, LOW);
+digitalWrite(L1, HIGH);
+delay(500);
+digitalWrite(L1, LOW);
+digitalWrite(L1, HIGH);
+delay(500);
+digitalWrite(L1, LOW);
+digitalWrite(L3, HIGH);
+delay(500);
+digitalWrite(L3, LOW);
+digitalWrite(L3, HIGH);
+delay(250);
+digitalWrite(L3, LOW);
+digitalWrite(L5, HIGH);
+delay(250);
+digitalWrite(L5, LOW);
+digitalWrite(L6, HIGH);
+delay(250);
+digitalWrite(L6, LOW);
+digitalWrite(L7, HIGH); // string
+digitalWrite(L8, HIGH); // string
+digitalWrite(L9, HIGH); // string
+digitalWrite(L10, HIGH); // string
+digitalWrite(L11, HIGH); // string
+digitalWrite(L12, HIGH); // string
+delay(250);
+digitalWrite(L7, HIGH);
+delay(250);
+digitalWrite(L7, LOW);
+digitalWrite(L7, HIGH);
+delay(250);
+digitalWrite(L7, LOW);
+digitalWrite(L8, HIGH);
+delay(250);
+digitalWrite(L8, LOW);
+digitalWrite(L9, HIGH);
+delay(250);
+digitalWrite(L9, LOW);
+digitalWrite(L10, HIGH);
+delay(250);
+digitalWrite(L10, LOW);
+digitalWrite(L11, HIGH);
+delay(250);
+digitalWrite(L11, LOW);
+//Rest 2
+delay(2000);
+//Rest 0.5
+delay(500);
+//Rest 0.5
+delay(500);
+//Rest 1
+delay(1000);
+//Rest 2
+delay(2000);
+//Rest 4
+delay(4000);
+//Rest 4
+delay(4000);
+//Rest 4
+delay(4000);
+//Rest 4
+delay(4000);
+}
